@@ -1,0 +1,15 @@
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\bin\Debug\net6.0\Exponent Lab.exe
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\bin\Debug\net6.0\Exponent Lab.deps.json
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\bin\Debug\net6.0\Exponent Lab.runtimeconfig.json
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\bin\Debug\net6.0\Exponent Lab.dll
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\bin\Debug\net6.0\Exponent Lab.pdb
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\Exponent Lab.csproj.AssemblyReference.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\Exponent Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\Exponent Lab.AssemblyInfoInputs.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\Exponent Lab.AssemblyInfo.cs
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\Exponent Lab.csproj.CoreCompileInputs.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\Exponent Lab.dll
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\refint\Exponent Lab.dll
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\Exponent Lab.pdb
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\Exponent Lab.genruntimeconfig.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Exponent Lab\Exponent Lab\obj\Debug\net6.0\ref\Exponent Lab.dll
